@@ -1,0 +1,4 @@
+Ettercap Stuff
+==============
+1) In order to do ARP poisining we need the ip address of the router as well as the machine/machines we want to monitor. We can scan for ip adresses and MAC addresses on GoucherWiFi bu also shouldn't do this on GoucherWiFi
+2) 2
