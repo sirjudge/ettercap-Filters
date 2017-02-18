@@ -1,4 +1,8 @@
 Ettercap Stuff
 ==============
 1) In order to do ARP poisining we need the ip address of the router as well as the machine/machines we want to monitor. We can scan for ip adresses and MAC addresses on GoucherWiFi bu also shouldn't do this on GoucherWiFi
-2) 2
+
+2) Talk to Tom about keyLogging to see what he thinks
+
+3) Figure out if ettercap can do more with filters. Possibly capture username and passwords through packet sniffing later down the line, but for now we can at least inject some amount of our own script/code into victim computer
+
